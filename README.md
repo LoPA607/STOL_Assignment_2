@@ -3,7 +3,7 @@
 This project focuses on airfoil analysis using thin airfoil theory. There are two versions available:
 
 1. **NACA Airfoil Analysis**:
-   - Uses `GUI_naca.md` for the graphical user interface.
+   - Uses `GUI_for_naca_airfoil.md` for the graphical user interface.
    - Executes with `final.py`.
 
 2. **User-Defined Airfoil Analysis**:
