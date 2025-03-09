@@ -20,7 +20,7 @@ pip install streamlit numpy matplotlib
 ## Usage
 Run the application using the command:
 ```bash
-streamlit run app.py
+streamlit run final.py
 ```
 
 ### Input Parameters
