@@ -45,8 +45,4 @@ Moment Coefficient (Cm): -0.025
 ```
 Along with the camber line and streamline plots.
 
-## License
-This project is open-source and available under the MIT License.
 
-## Author
-Developed by [Your Name]
